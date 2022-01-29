@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wisata Riau</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="detail">Detail</string>
+    <string name="wisata_name">nama wisata</string>
+    <string name="wisata_detail">Detail Wisata</string>
+    <string name="email">m.rodhiansabri@gmail.com</string>
+    <string name="nama">Muhammad Rodhian Syabri</string>
+</resources>
